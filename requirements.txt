@@ -1,0 +1,12 @@
+
+autogen-agentchat
+autogen-core
+autogen-ext
+langchain
+langchain-community
+openai
+pillow
+python-dotenv
+requests
+ipython
+pydantic
